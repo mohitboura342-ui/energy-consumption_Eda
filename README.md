@@ -308,3 +308,4 @@ Energy-Consumption-EDA/
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Happy+Learning!;Keep+Exploring+Data!+🚀"/>
 
 </div>
+
